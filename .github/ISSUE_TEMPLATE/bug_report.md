@@ -1,32 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: unlock session issue
+about: Unlock seesion not taking he right password if the first time a wrong password was typed.
+title: 'Unlock session'
 labels: ''
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+ession unlock issue "When a session password is created it work fine" but when i close the game and come back i am asked to put the session password, if for the first time i put a wrong password i will get a wrong password message, but when i put the right password the second time i still get wrong password
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
+1. Go to 'login with Tronlink'
+2. Click on ' unlock session'
 3. Scroll down to '....'
-4. See error
+4. Put a wrong password the first time, and put the right password the second time 
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+The password is supposed to be accepted and the session need to be restaured.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [MAcOS Catalina]
+ - Browser [chrome]
+ - Version [ 79.0.3945.79]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
@@ -35,4 +35,5 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+right password used: MINkapeu1006
+Wrong password used : minkapeu1006
