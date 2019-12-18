@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: unlock session issue 
+about: When an unlock session password is created the frist time
 title: ''
 labels: ''
 assignees: ''
@@ -8,25 +8,26 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+So when i create the session passoword all work fine, but the second time i try to restore the session if the first password i enter is wrong and enter the correct password the second time it will still say wrong password.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
+1. Go to 'Profile, login ussing Tronlink and create session password'
+2. Click on 'unlock session'
 3. Scroll down to '....'
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+The second time when the password is correct the session should be restored
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+
+
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [Macbook pro]
+ - Browser [chrome]
+ - Version [ 79.0.3945.79]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
